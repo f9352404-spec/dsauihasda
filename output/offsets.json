@@ -1,44 +1,28 @@
 {
-  "client.dll": {
-    "dwCSGOInput": 36798400,
-    "dwEntityList": 38457896,
-    "dwGameEntitySystem": 38457896,
-    "dwGameEntitySystem_highestEntityIndex": 8352,
-    "dwGameRules": 36749024,
-    "dwGlobalVars": 33932736,
-    "dwGlowManager": 36736232,
-    "dwLocalPlayerController": 36643192,
-    "dwLocalPlayerPawn": 33979232,
-    "dwPlantedC4": 36788032,
-    "dwPrediction": 33978992,
-    "dwSensitivity": 36739064,
-    "dwSensitivity_sensitivity": 88,
-    "dwViewAngles": 36800072,
-    "dwViewMatrix": 36757280,
-    "dwViewRender": 36758328,
-    "dwWeaponC4": 36270976
-  },
-  "engine2.dll": {
+    "build_number": 14138,
     "dwBuildNumber": 6346004,
-    "dwNetworkGameClient": 9471232,
-    "dwNetworkGameClient_clientTickCount": 888,
-    "dwNetworkGameClient_deltaTick": 588,
-    "dwNetworkGameClient_isBackgroundMap": 2888735,
-    "dwNetworkGameClient_localPlayer": 248,
-    "dwNetworkGameClient_maxClients": 576,
-    "dwNetworkGameClient_serverTickCount": 588,
-    "dwNetworkGameClient_signOnState": 560,
-    "dwWindowHeight": 9488556,
-    "dwWindowWidth": 9488552
-  },
-  "inputsystem.dll": {
-    "dwInputSystem": 285392
-  },
-  "matchmaking.dll": {
-    "dwGameTypes": 1802240
-  },
-  "soundsystem.dll": {
-    "dwSoundSystem": 5190768,
-    "dwSoundSystem_engineViewData": 124
-  }
+    "dwEntityList": 38457896,
+    "dwLocalPlayer": 33979232,
+    "dwPlantedC4": 36788032,
+    "dwViewMatrix": 36757280,
+    "m_ArmorValue": 10028,
+    "m_bIsDefusing": 9978,
+    "m_flC4Blow": 4512,
+    "m_flFlashOverlayAlpha": 5612,
+    "m_flNextBeep": 4508,
+    "m_flTimerLength": 4520,
+    "m_hPlayerPawn": 2316,
+    "m_iAccount": 64,
+    "m_iHealth": 852,
+    "m_iTeamNum": 1011,
+    "m_pClippingWeapon": 15808,
+    "m_pGameSceneNode": 824,
+    "m_pInGameMoneyServices": 2056,
+    "m_sSanitizedPlayerName": 2144,
+    "m_szName": 1600,
+    "m_vOldOrigin": 5512,
+    "m_vecAbsOrigin": 208,
+    "dwLocalPlayerController": 36643192,
+    "m_hController": 5536,
+    "m_iszPlayerName": 1784
 }
